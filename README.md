@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Artificial Intelligence and Machine Learning**
 
-- 📫 How to reach me **himanshu.21b1531062@abe.ac.in**
+- 📫 How to reach me **himanshu.21b1531062@abes.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
