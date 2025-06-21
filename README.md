@@ -1,35 +1,73 @@
-# 💫 About Me:
-🔭 I’m currently working on Machine Learning.<br>👯 I’m looking to collaborate on working on different high-end projects.<br>🌱 I’m currently learning Data Structures, Full Stack Web Development.<br>💬 Ask me about CP, OOPS, JAVA Development and more...<br>
+<h1 align="center">Hi 👋, I'm Himanshu Garg</h1>
+
 
 ![logo](https://github.com/himanshu062/himanshu062/blob/main/gitban.jpg)
+## 💫 About Me:
+ 🔭 I’m a Software Enginner X Analyst.<br/>
+ 🌱 I'm  Currently Learning Springboot 🌥️<br/>
+ 🔍 I am Looking for System Design Resources. <br/>
+ 💬 Ask me About  Data structure and Algorithms, Machine Learning <br/>
+ 📫 How to reach me : [Linktree](https://linktr.ee/himanshu__garg)<br/>
+ 📄 Know about my experiences : [LinkedIn](https://www.linkedin.com/in/himanshu-garg-3b567b225/)<br/>
+
+<img align="left" width="400" src="[(https://pin.it/5h3urp4)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dcoder&psig=AOvVaw1pQKPdIbMJO1YPajaWWDo_&ust=1673364537857000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjC3-DmuvwCFQAAAAAdAAAAABAR)">
+
+</br>
+
+## 📊 GitHub Stats:
+
+### Last 30 Days Github Activity :
+![](https://github-readme-activity-graph.vercel.app/graph?username=himanshu062&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu062&theme=github_dark)
+
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=himanshu062&layout=compact&langs_count=5&&theme=react)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshu062&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himanshu062&theme=github_dark&utcOffset=8)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=himanshu062&theme=github-dark)](https://git.io/streak-stats)
+
+## 🐦 Coding Stats:
+![GeeksforGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=himanshu__garg)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Ansh__garg)
+
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/himanshu-garg-3b567b225/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himanshu__garg7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-garg-3b567b225/) 
+<p align="left">
+<a href="https://www.leetcode.com/Ansh__garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ansh__garg" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/himanshu__garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="himanshu__garg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ansh_garg347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ansh_garg347" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/himanshu-garg-3b567b225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-garg-3b567b225" height="30" width="40" /></a>
+<a href="https://instagram.com/himanshu__garg7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshu__garg7" height="30" width="40" /></a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=himanshu062&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=himanshu062&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu062&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=himanshu062&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+</br>
+</br>
+
+## 🖥️Tech Stack:
+<p></p>
+
+<h3 align="left">Languages</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,c&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,html,css,js&theme=dark)](https://skillicons.dev)
+
+<h3 align="left">Technologies</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=azure,maven,opencv&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=sklearn,vercel,tensorflow&theme=dark)](https://skillicons.dev)
+
+<h3 align="left">Software and Tools</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,anaconda,eclipse&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,replit,discord&theme=dark)](https://skillicons.dev)
+
+
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=himanshu062&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=himanshu062&icon=6&color=6)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/himanshu__garg) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
