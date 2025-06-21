@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning.<br>👯 I’m looking to collaborate on working on different high-end projects.<br>🌱 I’m currently learning Data Structures, Full Stack Web Development.<br>💬 Ask me about CP, OOPS, JAVA Development and more...<br>
 
+![logo](https://github.com/himanshu062/himanshu062/blob/main/gitban.jpg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/himanshu-garg-3b567b225/) 
