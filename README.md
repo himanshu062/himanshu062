@@ -25,7 +25,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshu062&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himanshu062&theme=github_dark&utcOffset=8)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=himanshu062&theme=github-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=himanshu062)](https://git.io/streak-stats)
 
 ## 🐦 Coding Stats:
 ![GeeksforGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=himanshu__garg)
